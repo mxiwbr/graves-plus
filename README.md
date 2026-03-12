@@ -35,9 +35,9 @@ Remove the tag:
 ## Installation
 
 1. Download the datapack.
-2. Place the `graves-plus.zip` file inside your world's `datapacks` folder.
+2. Place the `.zip` file inside your world's `datapacks` folder.
 3. Run `/datapack list` and search for the datapack
-4. Run `/datapack enable graves-plus.zip`
+4. Run `/datapack enable <filename>.zip`
 5. You are ready to go!
 
 ## Credits
