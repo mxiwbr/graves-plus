@@ -1,3 +1,4 @@
+# Prevent grave creation for players with the noGrave tag
 execute if entity @s[tag=noGrave] run return 1
 advancement revoke @s only graves:die
 scoreboard players reset @s graves.deaths
