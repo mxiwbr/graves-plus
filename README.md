@@ -12,6 +12,7 @@ A small modification of version **4.0.5** of the **Graves** datapack by **vanill
 * Creates a **grave when a player dies**, storing their items safely.
 * Players can retrieve their items by interacting with the grave.
 * **New Feature:** Players with the tag `noGrave` will **not generate a grave on death**.
+* Expect more features in the future!
 
 This allows server admins to disable graves for certain players.
 
