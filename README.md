@@ -1,5 +1,10 @@
 # Graves Reworked
 
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)
+![Datapack](https://img.shields.io/badge/Type-Datapack-blue)
+![Base](https://img.shields.io/badge/Base-VanillaTweaks-lightgrey)
+![Modrinth](https://img.shields.io/badge/Available%20on-Modrinth-00AF5C?logo=modrinth)
+
 A small modification of the **Graves** datapack by **vanillatweaks.net** that adds additional control over when graves are created.
 
 ## Features
