@@ -1,4 +1,4 @@
-# Graves Reworked
+# Graves+
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)
 ![Datapack](https://img.shields.io/badge/Type-Datapack-blue)
